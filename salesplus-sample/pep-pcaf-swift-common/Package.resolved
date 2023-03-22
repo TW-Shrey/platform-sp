@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "OktaAuthNative",
+        "repositoryURL": "https://github.com/okta/okta-auth-swift.git",
+        "state": {
+          "branch": null,
+          "revision": "b8ba74c1a603af60ef8b1b3817ce6c7b00fad2a9",
+          "version": "2.4.3"
+        }
+      },
+      {
+        "package": "OktaJWT",
+        "repositoryURL": "https://github.com/okta/okta-ios-jwt.git",
+        "state": {
+          "branch": null,
+          "revision": "f8f51bde0c145ef1405d40d2757262b296a45831",
+          "version": "2.3.4"
+        }
+      },
+      {
+        "package": "OktaOidc",
+        "repositoryURL": "https://github.com/okta/okta-oidc-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "53bfce73acac9f0506cf4be905647aa368d4e48b",
+          "version": "3.11.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

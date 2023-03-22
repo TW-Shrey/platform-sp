@@ -1,0 +1,6 @@
+framework module SalesProPlusFramework {
+  umbrella header "SalesProPlusFramework.h"
+
+  export *
+  module * { export * }
+}

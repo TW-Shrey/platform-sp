@@ -1,0 +1,68 @@
+{
+  "pins" : [
+    {
+      "identity" : "common-auth",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TW-Shrey/common-auth.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0460b2d112eb89e779a03278211ac6a258b97df7"
+      }
+    },
+    {
+      "identity" : "couchbase-lite-swift-ee",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/couchbase/couchbase-lite-swift-ee.git",
+      "state" : {
+        "revision" : "ee2fb1bdefffdd87b5622cf0bbcff275421b9e6c",
+        "version" : "3.0.2"
+      }
+    },
+    {
+      "identity" : "okta-auth-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/okta/okta-auth-swift.git",
+      "state" : {
+        "revision" : "b8ba74c1a603af60ef8b1b3817ce6c7b00fad2a9",
+        "version" : "2.4.3"
+      }
+    },
+    {
+      "identity" : "okta-ios-jwt",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/okta/okta-ios-jwt.git",
+      "state" : {
+        "revision" : "105f832e829b64da560ec785adfc2840d0be30a6",
+        "version" : "2.3.5"
+      }
+    },
+    {
+      "identity" : "okta-oidc-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/okta/okta-oidc-ios.git",
+      "state" : {
+        "revision" : "91eac722b8e859ba7f15d65a9085a64a296bc065",
+        "version" : "3.11.2"
+      }
+    },
+    {
+      "identity" : "pcaf-mbl-cb",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TW-Shrey/pcaf-mbl-cb.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "37d7d3a4732fdda90bec90b8ec17d9d8ffb5ea6e"
+      }
+    },
+    {
+      "identity" : "pcaf-mbl-sf-intfc-pkg",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TW-Shrey/pcaf-mbl-sf-intfc-pkg.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c66ef1efa124e0c063f8da0fe1273b2f3c8b9746"
+      }
+    }
+  ],
+  "version" : 2
+}

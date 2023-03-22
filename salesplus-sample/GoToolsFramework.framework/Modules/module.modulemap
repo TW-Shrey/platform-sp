@@ -1,0 +1,11 @@
+framework module GoToolsFramework {
+  umbrella header "GoToolsFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module GoToolsFramework.Swift {
+  header "GoToolsFramework-Swift.h"
+  requires objc
+}

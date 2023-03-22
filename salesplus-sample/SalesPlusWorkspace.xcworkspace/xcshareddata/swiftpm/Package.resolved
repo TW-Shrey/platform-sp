@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "78424be314842833c04bc3bef5b72e85fff99204",
+        "version" : "5.6.4"
+      }
+    },
+    {
+      "identity" : "couchbase-lite-swift-ee",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/couchbase/couchbase-lite-swift-ee.git",
+      "state" : {
+        "revision" : "ee2fb1bdefffdd87b5622cf0bbcff275421b9e6c",
+        "version" : "3.0.2"
+      }
+    },
+    {
+      "identity" : "okta-mobile-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/okta/okta-mobile-swift.git",
+      "state" : {
+        "revision" : "3543bac69b2436355b2e93106ed90edb7804f8e4",
+        "version" : "1.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
